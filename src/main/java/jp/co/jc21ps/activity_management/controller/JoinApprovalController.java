@@ -1,4 +1,5 @@
 package jp.co.jc21ps.activity_management.controller;
+ 
 
 import java.util.ArrayList;
 import java.util.List;
@@ -178,3 +179,4 @@ public class JoinApprovalController {
     }
 
 }
+
